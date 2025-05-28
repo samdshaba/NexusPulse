@@ -62,7 +62,7 @@ This open-source project is designed for developers, gamers, and educators inter
 Contributions are welcome! Fork the repo, create a feature branch, and submit a pull request. For major changes, open an issue to discuss your ideas.
 
 ## Sponsorship
-Support NexusPulse’s development through [GitHub Sponsors](https://github.com/sponsors/yourusername)! Your contributions fund:
+Support NexusPulse’s development through [GitHub Sponsors](https://github.com/sponsors/samdshaba)! Your contributions fund:
 - New rhythm patterns and levels.
 - Advanced AI for dynamic beat generation.
 - Tutorials for C++ and game development.
